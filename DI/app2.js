@@ -15,4 +15,3 @@ function DIController($scope, $filter) {
 }
 
 })();
-© 2020 GitHub, Inc
